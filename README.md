@@ -1,0 +1,1 @@
+# ATIVIDADE-PR-TICA-EM-GRUPO-Ordena-o-Din-mica-com-Estruturas-Lineares
